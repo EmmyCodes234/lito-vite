@@ -1,0 +1,2 @@
+-- This script will be run after authentication to seed initial data
+-- It's a placeholder for now and will be executed by the app after first login
